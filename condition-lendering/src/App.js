@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Minsu</h1>
+      <h1>MiniCho</h1>
       <div>{renderCondition}</div>
       <button onClick={toggle}>Toggle</button>
     </div>
